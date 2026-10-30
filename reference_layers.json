@@ -1,0 +1,154 @@
+{
+  "exporter_version": "2.0.0",
+  "created_at": "2026-10-30T10:18:31+08:00",
+  "source_model_title": "20261028_main model OP2",
+  "model_basename": "20261028_main model OP2.skp",
+  "sketchup_version": "26.2.243",
+  "coord_unit": "metre",
+  "skp_world_axes": "+X east (assumed), +Y north (user-confirmed), +Z up",
+  "web_mapping": "web_xyz_m = [skp_x_m, skp_z_m, -skp_y_m]",
+  "web_mapping_requires_single_control_point_check": true,
+  "no_gis_origin_required": true,
+  "reference_bounds": {
+    "04-出入車道": {
+      "min_skp_xyz_m": [
+        292.1794,
+        429.8173,
+        13.5617
+      ],
+      "max_skp_xyz_m": [
+        319.3422,
+        441.9738,
+        19.0617
+      ],
+      "center_skp_xyz_m": [
+        305.7608,
+        435.8956,
+        16.3117
+      ],
+      "center_web_xyz_m": [
+        305.7608,
+        16.3117,
+        -435.8956
+      ],
+      "size_m": [
+        27.1628,
+        12.1565,
+        5.5
+      ],
+      "relative_height_m": 5.5
+    },
+    "04-社區出入門廳棟": {
+      "min_skp_xyz_m": [
+        287.8344,
+        407.4384,
+        17.5617
+      ],
+      "max_skp_xyz_m": [
+        299.448,
+        425.8234,
+        21.9117
+      ],
+      "center_skp_xyz_m": [
+        293.6412,
+        416.6309,
+        19.7367
+      ],
+      "center_web_xyz_m": [
+        293.6412,
+        19.7367,
+        -416.6309
+      ],
+      "size_m": [
+        11.6136,
+        18.385,
+        4.35
+      ],
+      "relative_height_m": 4.35
+    },
+    "04-住宅棟": {
+      "min_skp_xyz_m": [
+        296.0332,
+        363.7553,
+        17.411
+      ],
+      "max_skp_xyz_m": [
+        346.0492,
+        413.2296,
+        129.861
+      ],
+      "center_skp_xyz_m": [
+        321.0412,
+        388.4924,
+        73.636
+      ],
+      "center_web_xyz_m": [
+        321.0412,
+        73.636,
+        -388.4924
+      ],
+      "size_m": [
+        50.016,
+        49.4743,
+        112.45
+      ],
+      "relative_height_m": 112.45
+    },
+    "04-公設棟": {
+      "min_skp_xyz_m": [
+        290.4529,
+        385.5718,
+        17.5617
+      ],
+      "max_skp_xyz_m": [
+        365.3784,
+        436.7675,
+        23.5617
+      ],
+      "center_skp_xyz_m": [
+        327.9157,
+        411.1697,
+        20.5617
+      ],
+      "center_web_xyz_m": [
+        327.9157,
+        20.5617,
+        -411.1697
+      ],
+      "size_m": [
+        74.9255,
+        51.1957,
+        6.0
+      ],
+      "relative_height_m": 6.0
+    },
+    "03-基地地塊": {
+      "min_skp_xyz_m": [
+        273.2829,
+        354.9284,
+        17.0617
+      ],
+      "max_skp_xyz_m": [
+        369.1114,
+        445.8791,
+        18.611
+      ],
+      "center_skp_xyz_m": [
+        321.1971,
+        400.4038,
+        17.8364
+      ],
+      "center_web_xyz_m": [
+        321.1971,
+        17.8364,
+        -400.4038
+      ],
+      "size_m": [
+        95.8285,
+        90.9507,
+        1.5493
+      ],
+      "relative_height_m": 1.5493
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "exporter_version": "2.0.0",
+  "created_at": "2026-10-30T10:18:31+08:00",
+  "source_model_title": "20261028_main model OP2",
+  "model_basename": "20261028_main model OP2.skp",
+  "sketchup_version": "26.2.243",
+  "coord_unit": "metre",
+  "skp_world_axes": "+X east (assumed), +Y north (user-confirmed), +Z up",
+  "web_mapping": "web_xyz_m = [skp_x_m, skp_z_m, -skp_y_m]",
+  "web_mapping_requires_single_control_point_check": true,
+  "no_gis_origin_required": true,
+  "roads": [
+
+  ],
+  "loose_road_labels": [
+    {
+      "source_tag": "網站分析_道路",
+      "category": "road",
+      "text": "<10m保儀路109巷>",
+      "anchor": {
+        "skp_xyz_m": [
+          276.447,
+          423.5347,
+          17.56
+        ],
+        "web_xyz_m": [
+          276.447,
+          17.56,
+          -423.5347
+        ]
+      }
+    },
+    {
+      "source_tag": "網站分析_道路",
+      "category": "road",
+      "text": "<20m木新路二段>",
+      "anchor": {
+        "skp_xyz_m": [
+          397.3634,
+          382.6764,
+          19.951
+        ],
+        "web_xyz_m": [
+          397.3634,
+          19.951,
+          -382.6764
+        ]
+      }
+    },
+    {
+      "source_tag": "網站分析_道路",
+      "category": "road",
+      "text": "<15m永安街22巷>",
+      "anchor": {
+        "skp_xyz_m": [
+          337.4726,
+          525.0149,
+          19.9342
+        ],
+        "web_xyz_m": [
+          337.4726,
+          19.9342,
+          -525.0149
+        ]
+      }
+    },
+    {
+      "source_tag": "網站分析_道路",
+      "category": "road",
+      "text": "<6m保儀路109巷21弄>",
+      "anchor": {
+        "skp_xyz_m": [
+          298.2042,
+          352.4007,
+          17.585
+        ],
+        "web_xyz_m": [
+          298.2042,
+          17.585,
+          -352.4007
+        ]
+      }
+    }
+  ]
+}

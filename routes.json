@@ -1,0 +1,692 @@
+{
+  "exporter_version": "2.0.0",
+  "created_at": "2026-10-30T10:18:31+08:00",
+  "source_model_title": "20261028_main model OP2",
+  "model_basename": "20261028_main model OP2.skp",
+  "sketchup_version": "26.2.243",
+  "coord_unit": "metre",
+  "skp_world_axes": "+X east (assumed), +Y north (user-confirmed), +Z up",
+  "web_mapping": "web_xyz_m = [skp_x_m, skp_z_m, -skp_y_m]",
+  "web_mapping_requires_single_control_point_check": true,
+  "no_gis_origin_required": true,
+  "routes": [
+    {
+      "id": 2311558,
+      "name": "外部雙向車行動線",
+      "source_tag": "網站分析_車行動線",
+      "category": "vehicle",
+      "bounds": {
+        "min_skp_xyz_m": [
+          246.5646,
+          251.0138,
+          19.56
+        ],
+        "max_skp_xyz_m": [
+          413.1618,
+          564.4175,
+          22.87
+        ],
+        "center_skp_xyz_m": [
+          329.8632,
+          407.7157,
+          21.215
+        ],
+        "center_web_xyz_m": [
+          329.8632,
+          21.215,
+          -407.7157
+        ],
+        "size_m": [
+          166.5972,
+          313.4037,
+          3.31
+        ],
+        "relative_height_m": 3.31
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              263.8596,
+              251.0138,
+              19.68
+            ],
+            [
+              246.5646,
+              296.7949,
+              19.68
+            ],
+            [
+              291.0637,
+              480.7121,
+              19.56
+            ],
+            [
+              293.1096,
+              521.7632,
+              19.56
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              263.8596,
+              19.68,
+              -251.0138
+            ],
+            [
+              246.5646,
+              19.68,
+              -296.7949
+            ],
+            [
+              291.0637,
+              19.56,
+              -480.7121
+            ],
+            [
+              293.1096,
+              19.56,
+              -521.7632
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 4
+        },
+        {
+          "points_skp_xyz_m": [
+            [
+              257.7895,
+              535.7961,
+              19.69
+            ],
+            [
+              337.4726,
+              525.0149,
+              19.9342
+            ],
+            [
+              401.8063,
+              513.9493,
+              21.56
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              257.7895,
+              19.69,
+              -535.7961
+            ],
+            [
+              337.4726,
+              19.9342,
+              -525.0149
+            ],
+            [
+              401.8063,
+              21.56,
+              -513.9493
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 3
+        },
+        {
+          "points_skp_xyz_m": [
+            [
+              289.4553,
+              251.2644,
+              19.68
+            ],
+            [
+              330.5392,
+              277.6919,
+              20.62
+            ],
+            [
+              375.6301,
+              330.6266,
+              19.585
+            ],
+            [
+              392.594,
+              360.9249,
+              20.82
+            ],
+            [
+              413.1618,
+              454.727,
+              21.385
+            ],
+            [
+              410.4287,
+              564.4175,
+              22.87
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              289.4553,
+              19.68,
+              -251.2644
+            ],
+            [
+              330.5392,
+              20.62,
+              -277.6919
+            ],
+            [
+              375.6301,
+              19.585,
+              -330.6266
+            ],
+            [
+              392.594,
+              20.82,
+              -360.9249
+            ],
+            [
+              413.1618,
+              21.385,
+              -454.727
+            ],
+            [
+              410.4287,
+              22.87,
+              -564.4175
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 6
+        }
+      ],
+      "segment_count": 10,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2311562,
+      "name": "外部單向車行動線",
+      "source_tag": "網站分析_車行動線",
+      "category": "vehicle",
+      "bounds": {
+        "min_skp_xyz_m": [
+          268.8607,
+          334.8388,
+          19.585
+        ],
+        "max_skp_xyz_m": [
+          365.6861,
+          363.5484,
+          19.585
+        ],
+        "center_skp_xyz_m": [
+          317.2734,
+          349.1936,
+          19.585
+        ],
+        "center_web_xyz_m": [
+          317.2734,
+          19.585,
+          -349.1936
+        ],
+        "size_m": [
+          96.8254,
+          28.7096,
+          0.0
+        ],
+        "relative_height_m": 0.0
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              268.8607,
+              363.5484,
+              19.585
+            ],
+            [
+              365.6861,
+              334.8388,
+              19.585
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              268.8607,
+              19.585,
+              -363.5484
+            ],
+            [
+              365.6861,
+              19.585,
+              -334.8388
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 2
+        }
+      ],
+      "segment_count": 1,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2311593,
+      "name": "內部車行動線",
+      "source_tag": "網站分析_車行動線",
+      "category": "vehicle",
+      "bounds": {
+        "min_skp_xyz_m": [
+          284.1143,
+          434.1981,
+          19.56
+        ],
+        "max_skp_xyz_m": [
+          314.0431,
+          442.3706,
+          19.5642
+        ],
+        "center_skp_xyz_m": [
+          299.0787,
+          438.2844,
+          19.5621
+        ],
+        "center_web_xyz_m": [
+          299.0787,
+          19.5621,
+          -438.2844
+        ],
+        "size_m": [
+          29.9288,
+          8.1725,
+          0.0042
+        ],
+        "relative_height_m": 0.0042
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              284.1143,
+              442.3706,
+              19.56
+            ],
+            [
+              296.3566,
+              439.0276,
+              19.5617
+            ],
+            [
+              314.0431,
+              434.1981,
+              19.5642
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              284.1143,
+              19.56,
+              -442.3706
+            ],
+            [
+              296.3566,
+              19.5617,
+              -439.0276
+            ],
+            [
+              314.0431,
+              19.5642,
+              -434.1981
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 3
+        }
+      ],
+      "segment_count": 2,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2311564,
+      "name": "外部人行動線",
+      "source_tag": "網站分析_人行動線",
+      "category": "pedestrian",
+      "bounds": {
+        "min_skp_xyz_m": [
+          255.2767,
+          319.3095,
+          18.56
+        ],
+        "max_skp_xyz_m": [
+          297.2827,
+          521.2204,
+          18.6199
+        ],
+        "center_skp_xyz_m": [
+          276.2797,
+          420.265,
+          18.59
+        ],
+        "center_web_xyz_m": [
+          276.2797,
+          18.59,
+          -420.265
+        ],
+        "size_m": [
+          42.006,
+          201.9109,
+          0.0599
+        ],
+        "relative_height_m": 0.0599
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              255.2767,
+              319.3095,
+              18.6199
+            ],
+            [
+              263.57,
+              349.8821,
+              18.585
+            ],
+            [
+              284.341,
+              437.2206,
+              18.56
+            ],
+            [
+              295.5451,
+              485.3835,
+              18.56
+            ],
+            [
+              297.2827,
+              521.2204,
+              18.56
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              255.2767,
+              18.6199,
+              -319.3095
+            ],
+            [
+              263.57,
+              18.585,
+              -349.8821
+            ],
+            [
+              284.341,
+              18.56,
+              -437.2206
+            ],
+            [
+              295.5451,
+              18.56,
+              -485.3835
+            ],
+            [
+              297.2827,
+              18.56,
+              -521.2204
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 5
+        }
+      ],
+      "segment_count": 4,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2311642,
+      "name": "住戶動線",
+      "source_tag": "網站分析_管理動線",
+      "category": "management",
+      "bounds": {
+        "min_skp_xyz_m": [
+          281.1951,
+          410.6995,
+          18.56
+        ],
+        "max_skp_xyz_m": [
+          310.0307,
+          419.5747,
+          19.611
+        ],
+        "center_skp_xyz_m": [
+          295.6129,
+          415.1371,
+          19.0855
+        ],
+        "center_web_xyz_m": [
+          295.6129,
+          19.0855,
+          -415.1371
+        ],
+        "size_m": [
+          28.8356,
+          8.8752,
+          1.051
+        ],
+        "relative_height_m": 1.051
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              281.1951,
+              419.5747,
+              18.56
+            ],
+            [
+              289.4435,
+              417.6604,
+              18.6137
+            ],
+            [
+              310.0307,
+              410.6995,
+              19.611
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              281.1951,
+              18.56,
+              -419.5747
+            ],
+            [
+              289.4435,
+              18.6137,
+              -417.6604
+            ],
+            [
+              310.0307,
+              19.611,
+              -410.6995
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 3
+        }
+      ],
+      "segment_count": 2,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2311644,
+      "name": "外送動線",
+      "source_tag": "網站分析_管理動線",
+      "category": "management",
+      "bounds": {
+        "min_skp_xyz_m": [
+          281.6643,
+          425.2821,
+          17.56
+        ],
+        "max_skp_xyz_m": [
+          291.3962,
+          427.5964,
+          18.0225
+        ],
+        "center_skp_xyz_m": [
+          286.5303,
+          426.4393,
+          17.7912
+        ],
+        "center_web_xyz_m": [
+          286.5303,
+          17.7912,
+          -426.4393
+        ],
+        "size_m": [
+          9.7319,
+          2.3143,
+          0.4625
+        ],
+        "relative_height_m": 0.4625
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              281.6643,
+              427.5964,
+              17.56
+            ],
+            [
+              291.3962,
+              425.2821,
+              18.0225
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              281.6643,
+              17.56,
+              -427.5964
+            ],
+            [
+              291.3962,
+              18.0225,
+              -425.2821
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 2
+        }
+      ],
+      "segment_count": 1,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2311646,
+      "name": "物管動線",
+      "source_tag": "網站分析_管理動線",
+      "category": "management",
+      "bounds": {
+        "min_skp_xyz_m": [
+          301.3261,
+          413.8423,
+          19.1072
+        ],
+        "max_skp_xyz_m": [
+          316.4075,
+          421.639,
+          19.611
+        ],
+        "center_skp_xyz_m": [
+          308.8668,
+          417.7407,
+          19.3591
+        ],
+        "center_web_xyz_m": [
+          308.8668,
+          19.3591,
+          -417.7407
+        ],
+        "size_m": [
+          15.0814,
+          7.7967,
+          0.5038
+        ],
+        "relative_height_m": 0.5038
+      },
+      "paths": [
+        {
+          "points_skp_xyz_m": [
+            [
+              301.3261,
+              421.639,
+              19.1072
+            ],
+            [
+              316.4075,
+              417.7743,
+              19.611
+            ],
+            [
+              315.3998,
+              413.8423,
+              19.611
+            ]
+          ],
+          "points_web_xyz_m": [
+            [
+              301.3261,
+              19.1072,
+              -421.639
+            ],
+            [
+              316.4075,
+              19.611,
+              -417.7743
+            ],
+            [
+              315.3998,
+              19.611,
+              -413.8423
+            ]
+          ],
+          "closed": false,
+          "direction_confirmed": false,
+          "node_count": 3
+        }
+      ],
+      "segment_count": 2,
+      "direction_confirmed": false,
+      "annotations": [
+
+      ]
+    }
+  ]
+}

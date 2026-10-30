@@ -1,0 +1,250 @@
+{
+  "exporter_version": "2.0.0",
+  "created_at": "2026-10-30T10:18:31+08:00",
+  "source_model_title": "20261028_main model OP2",
+  "model_basename": "20261028_main model OP2.skp",
+  "sketchup_version": "26.2.243",
+  "coord_unit": "metre",
+  "skp_world_axes": "+X east (assumed), +Y north (user-confirmed), +Z up",
+  "web_mapping": "web_xyz_m = [skp_x_m, skp_z_m, -skp_y_m]",
+  "web_mapping_requires_single_control_point_check": true,
+  "no_gis_origin_required": true,
+  "points": [
+    {
+      "id": 2313517,
+      "name": "北向觀察點",
+      "source_tag": "網站分析_觀察點",
+      "category": "viewpoint",
+      "bounds": {
+        "min_skp_xyz_m": [
+          324.1647,
+          410.003,
+          76.861
+        ],
+        "max_skp_xyz_m": [
+          324.8779,
+          410.7161,
+          76.861
+        ],
+        "center_skp_xyz_m": [
+          324.5213,
+          410.3596,
+          76.861
+        ],
+        "center_web_xyz_m": [
+          324.5213,
+          76.861,
+          -410.3596
+        ],
+        "size_m": [
+          0.7132,
+          0.7131,
+          0.0
+        ],
+        "relative_height_m": 0.0
+      },
+      "position_quality": "bounds_center_approximate",
+      "position": {
+        "skp_xyz_m": [
+          324.5213,
+          410.3596,
+          76.861
+        ],
+        "web_xyz_m": [
+          324.5213,
+          76.861,
+          -410.3596
+        ]
+      },
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2313570,
+      "name": "東向觀察點",
+      "source_tag": "網站分析_觀察點",
+      "category": "viewpoint",
+      "bounds": {
+        "min_skp_xyz_m": [
+          332.2553,
+          388.0808,
+          76.861
+        ],
+        "max_skp_xyz_m": [
+          332.9684,
+          388.7939,
+          76.861
+        ],
+        "center_skp_xyz_m": [
+          332.6119,
+          388.4374,
+          76.861
+        ],
+        "center_web_xyz_m": [
+          332.6119,
+          76.861,
+          -388.4374
+        ],
+        "size_m": [
+          0.7131,
+          0.7131,
+          0.0
+        ],
+        "relative_height_m": 0.0
+      },
+      "position_quality": "bounds_center_approximate",
+      "position": {
+        "skp_xyz_m": [
+          332.6119,
+          388.4374,
+          76.861
+        ],
+        "web_xyz_m": [
+          332.6119,
+          76.861,
+          -388.4374
+        ]
+      },
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2313623,
+      "name": "西向觀察點",
+      "source_tag": "網站分析_觀察點",
+      "category": "viewpoint",
+      "bounds": {
+        "min_skp_xyz_m": [
+          307.3071,
+          393.8208,
+          76.861
+        ],
+        "max_skp_xyz_m": [
+          308.0202,
+          394.534,
+          76.861
+        ],
+        "center_skp_xyz_m": [
+          307.6636,
+          394.1774,
+          76.861
+        ],
+        "center_web_xyz_m": [
+          307.6636,
+          76.861,
+          -394.1774
+        ],
+        "size_m": [
+          0.7131,
+          0.7132,
+          0.0
+        ],
+        "relative_height_m": 0.0
+      },
+      "position_quality": "bounds_center_approximate",
+      "position": {
+        "skp_xyz_m": [
+          307.6636,
+          394.1774,
+          76.861
+        ],
+        "web_xyz_m": [
+          307.6636,
+          76.861,
+          -394.1774
+        ]
+      },
+      "annotations": [
+
+      ]
+    },
+    {
+      "id": 2313625,
+      "name": "南向觀察點",
+      "source_tag": "網站分析_觀察點",
+      "category": "viewpoint",
+      "bounds": {
+        "min_skp_xyz_m": [
+          315.3977,
+          371.8986,
+          76.861
+        ],
+        "max_skp_xyz_m": [
+          316.1108,
+          372.6117,
+          76.861
+        ],
+        "center_skp_xyz_m": [
+          315.7542,
+          372.2551,
+          76.861
+        ],
+        "center_web_xyz_m": [
+          315.7542,
+          76.861,
+          -372.2551
+        ],
+        "size_m": [
+          0.7131,
+          0.7131,
+          0.0
+        ],
+        "relative_height_m": 0.0
+      },
+      "position_quality": "bounds_center_approximate",
+      "position": {
+        "skp_xyz_m": [
+          315.7542,
+          372.2551,
+          76.861
+        ],
+        "web_xyz_m": [
+          315.7542,
+          76.861,
+          -372.2551
+        ]
+      },
+      "annotations": [
+
+      ]
+    }
+  ],
+  "loose_labels": [
+    {
+      "source_tag": "網站分析_地標",
+      "category": "landmark",
+      "text": "景美溪",
+      "anchor": {
+        "skp_xyz_m": [
+          524.2192,
+          323.3123,
+          10.7096
+        ],
+        "web_xyz_m": [
+          524.2192,
+          10.7096,
+          -323.3123
+        ]
+      }
+    },
+    {
+      "source_tag": "網站分析_地標",
+      "category": "landmark",
+      "text": "道南河濱公園",
+      "anchor": {
+        "skp_xyz_m": [
+          592.5199,
+          391.4801,
+          16.0699
+        ],
+        "web_xyz_m": [
+          592.5199,
+          16.0699,
+          -391.4801
+        ]
+      }
+    }
+  ]
+}
